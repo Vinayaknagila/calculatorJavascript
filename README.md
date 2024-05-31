@@ -1,2 +1,2 @@
 # web-projecys
-simple projects for learning
+made a simple calculator  using html, css and javascript.
